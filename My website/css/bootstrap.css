@@ -1266,10 +1266,12 @@ h1,
 .h1 {
 	font-size: 36px;
 	color: red;
+	text-align: center;
 }
 h2,
 .h2 {
   font-size: 30px;
+  text-align: center;
 }
 h3,
 .h3 {
@@ -1290,6 +1292,7 @@ h6,
 p {
 	margin: 0 0 10px;
 	font-size: 24px;
+	padding-right: 30px;
 }
 .lead {
   margin-bottom: 20px;
