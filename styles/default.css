@@ -9,9 +9,23 @@ body{
 
 header.footer {
 	background-color: #B3B3B3;
+}
+
+h1{
 	font-family: "Garomond";
 }
 
+a{
+	text-decoration: none;
+	color: teal;
+}
+a:hover{
+	color: brown;
+}
+
+figcaption {
+	font-style: italic;
+}
 .container {
 	background-color: #FFFFFF;
 	width: 90%;
