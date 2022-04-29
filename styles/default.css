@@ -9,6 +9,7 @@ body{
 
 header.footer {
 	background-color: #B3B3B3;
+	text-align: center;
 }
 
 h1{
@@ -25,4 +26,13 @@ a:hover{
 
 figcaption {
 	font-style: italic;
+}
+
+main{
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+figure{
+	text-align: center;
 }
