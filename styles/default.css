@@ -7,7 +7,7 @@ body{
 	font-family: "Tahoma";
 }
 
-header.footer {
+header, footer {
 	background-color: #B3B3B3;
 	text-align: center;
 }
