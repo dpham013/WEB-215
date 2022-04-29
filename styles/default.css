@@ -10,6 +10,8 @@ body{
 header, footer {
 	background-color: #B3B3B3;
 	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 h1{
@@ -31,6 +33,7 @@ figcaption {
 main{
 	margin-left: 150px;
 	margin-right: 150px;
+	padding-bottom: 30px;
 }
 
 figure{
