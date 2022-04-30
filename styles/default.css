@@ -16,7 +16,9 @@ header, footer {
 
 h1{
 	font-family: "Blippo, fantasy";
+	color: #f039fa;
 }
+
 
 a{
 	text-decoration: none;
